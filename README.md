@@ -1,3 +1,6 @@
-# api_gateway
-i created a demo api gate way which can able to handle all types of request 
-/try it
+# Api_gateway
+I created a demo API gateway using Node.js and Express.
+
+**Try it**
+
+
