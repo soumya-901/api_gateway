@@ -1,0 +1,29 @@
+{
+  "iti": {
+    "fundname": "iti",
+    "url": "http://localhost:3000",
+    "endpoints": [
+      "user/dashboard",
+      "login",
+      "history"
+    ]
+  },
+  "axis": {
+    "fundname": "axis",
+    "url": "http://localhost:3000",
+    "endpoints": [
+      "user/dashboard",
+      "login",
+      "history"
+    ]
+  },
+  "sara": {
+    "fundname": "sara",
+    "url": "http://localhost:3000",
+    "endpoints": [
+      "user/dashboard",
+      "login",
+      "history"
+    ]
+  }
+}
